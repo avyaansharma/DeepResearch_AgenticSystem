@@ -1,0 +1,16 @@
+crawl4ai
+pydantic
+pydantic-settings
+openai
+google-generativeai
+python-dotenv
+tavily-python
+asyncio
+aiohttp
+rich
+langgraph
+crewai
+langchain
+langchain-openai
+langchain-google-genai
+pytest
