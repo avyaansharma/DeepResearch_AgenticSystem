@@ -5,6 +5,10 @@
 [![Crawl4AI](https://img.shields.io/badge/Crawl-Crawl4AI-green.svg)](https://github.com/unclecode/crawl4ai)
 [![Model](https://img.shields.io/badge/Model-Gemini--2.5--Flash--Lite-purple.svg)](https://deepmind.google/technologies/gemini/)
 
+**Additional Work**-
+https://github.com/avyaansharma/Multimodal-ResearchPaper-RAG
+https://github.com/avyaansharma/DeepScholar_ConferenceFinder
+
 A sophisticated, multi-agent research engine that dynamically plans, crawls, analyzes, and synthesizes deep technical insights into structured, citation-backed reports. Built on **LangGraph** and optimized for **Gemini 2.5 Flash Lite**, this system goes beyond simple search by simulating an elite research team.
 
 ---
